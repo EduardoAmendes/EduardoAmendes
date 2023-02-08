@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Eduardo Mendes
-- 👀 I’m interested in  aprender mais...
-- 🌱 I’m currently learning PHP, futuramente outras linguagens de programação.
-- 📫 How to reach me  https://www.linkedin.com/in/eduardomendes01/
+- 👋 Olá, sou Eduardo Mendes
+- 👀 Estou interessado em aprender mais...
+- 🌱 Atualmente estou aprendendo MYSQL, futuramente outras Bancos de Dados como Oracle, MongoDB.
+- 📫 Como chegar até em mim  https://www.linkedin.com/in/eduardomendes01/
 
